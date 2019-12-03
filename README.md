@@ -101,3 +101,5 @@ Các lợi ích của **VMware Tools**:
 Bài viết dựa trên sự tìm hiểu về **VMware WorkStation** của tôi.
 
 Chắc chắn bài viết còn nhiều thiếu sót. Mong mọi người thông cảm và góp ý để bài viết của tôi được hoàn thiện hơn.
+
+Xin chân thành cảm ơn !
