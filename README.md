@@ -94,3 +94,10 @@ Các lợi ích của **VMware Tools**:
 <img src = "https://i.imgur.com/RCOOwi6.png">
 
 - Bây giờ ta có thể *copy-paste file* từ máy thật qua máy ảo và ngược lại.
+
+
+## **Tổng kết**
+
+Bài viết dựa trên sự tìm hiểu về **VMware WorkStation** của tôi.
+
+Chắc chắn bài viết còn nhiều thiếu sót. Mong mọi người thông cảm và góp ý để bài viết của tôi được hoàn thiện hơn.
